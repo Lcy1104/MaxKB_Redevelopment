@@ -1,0 +1,244 @@
+2025-03-24 18:41:00.959 CST [36128] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-03-24 18:41:00.963 CST [36128] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2025-03-24 18:41:00.963 CST [36128] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2025-03-24 18:41:01.094 CST [44364] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-03-24 18:40:21 CST
+2025-03-24 18:41:01.174 CST [36128] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-03-24 18:46:01.052 CST [25304] ÈÕÖ¾:  checkpoint starting: time
+2025-03-24 18:47:42.878 CST [15504] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-03-24 18:47:42.878 CST [30384] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-03-24 18:47:47.366 CST [25304] ÈÕÖ¾:  checkpoint complete: wrote 968 buffers (5.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=105.767 s, sync=0.537 s, total=106.318 s; sync files=311, longest=0.044 s, average=0.002 s; distance=4477 kB, estimate=4477 kB
+2025-03-24 18:48:46.178 CST [43900] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-03-24 18:48:46.178 CST [31216] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-03-24 18:49:10.342 CST [36128] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-03-24 20:17:53.836 CST [24416] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-03-24 20:17:53.840 CST [24416] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2025-03-24 20:17:53.840 CST [24416] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2025-03-24 20:17:53.971 CST [31416] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÖĞ¶Ï£»ÉÏÒ»´ÎµÄÆô¶¯Ê±¼äÊÇÔÚ2025-03-24 18:47:47 CST
+2025-03-24 20:17:55.461 CST [31416] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³Ã»ÓĞÕıÈ·µÄ¹Ø±Õ; ´¦ÓÚ×Ô¶¯»Ö¸´×´Ì¬ÖĞ
+2025-03-24 20:17:55.465 CST [31416] ÈÕÖ¾:  redo ÔÚ 0/195CDC0 ¿ªÊ¼
+2025-03-24 20:17:55.481 CST [31416] ÈÕÖ¾:  0/1A4A220 ´¦µÄ¼ÇÂ¼³¤¶È²»ºÏ·¨£ºÏëÒª 24£¬µ«µÃµ½µÄÊÇ 0
+2025-03-24 20:17:55.481 CST [31416] ÈÕÖ¾:  redo done at 0/1A4A1E8 system usage: CPU:ÓÃ»§£º0.00 s£¬ÏµÍ³£º0.01 s£¬ÒÑÓÃÊ±¼ä£º0.01 s
+2025-03-24 20:17:55.485 CST [4848] ÈÕÖ¾:  checkpoint starting: end-of-recovery immediate wait
+2025-03-24 20:17:55.612 CST [4848] ÈÕÖ¾:  checkpoint complete: wrote 148 buffers (0.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.006 s, sync=0.110 s, total=0.129 s; sync files=60, longest=0.005 s, average=0.002 s; distance=949 kB, estimate=949 kB
+2025-03-24 20:17:55.693 CST [24416] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-03-24 20:18:19.161 CST [24416] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-03-24 20:18:30.438 CST [49804] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-03-24 20:18:30.442 CST [49804] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2025-03-24 20:18:30.442 CST [49804] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2025-03-24 20:18:30.572 CST [37168] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÖĞ¶Ï£»ÉÏÒ»´ÎµÄÆô¶¯Ê±¼äÊÇÔÚ2025-03-24 20:17:55 CST
+2025-03-24 20:18:31.885 CST [37168] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³Ã»ÓĞÕıÈ·µÄ¹Ø±Õ; ´¦ÓÚ×Ô¶¯»Ö¸´×´Ì¬ÖĞ
+2025-03-24 20:18:31.888 CST [37168] ÈÕÖ¾:  redo ÔÚ 0/1A4A298 ¿ªÊ¼
+2025-03-24 20:18:31.888 CST [37168] ÈÕÖ¾:  0/1A4A2D0 ´¦µÄ¼ÇÂ¼³¤¶È²»ºÏ·¨£ºÏëÒª 24£¬µ«µÃµ½µÄÊÇ 0
+2025-03-24 20:18:31.888 CST [37168] ÈÕÖ¾:  redo done at 0/1A4A298 system usage: CPU:ÓÃ»§£º0.00 s£¬ÏµÍ³£º0.00 s£¬ÒÑÓÃÊ±¼ä£º0.00 s
+2025-03-24 20:18:31.893 CST [46616] ÈÕÖ¾:  checkpoint starting: end-of-recovery immediate wait
+2025-03-24 20:18:31.949 CST [46616] ÈÕÖ¾:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.003 s, total=0.060 s; sync files=2, longest=0.002 s, average=0.002 s; distance=0 kB, estimate=0 kB
+2025-03-24 20:18:32.025 CST [49804] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-03-24 20:18:59.501 CST [36444] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-03-24 20:18:59.501 CST [40880] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-03-24 20:19:01.243 CST [49804] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-04-09 02:05:08.141 CST [34728] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-04-09 02:05:08.144 CST [34728] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 15432
+2025-04-09 02:05:08.145 CST [34728] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 15432
+2025-04-09 02:05:08.262 CST [26736] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-04-09 02:05:06 CST
+2025-04-09 02:05:08.370 CST [34728] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-09 02:05:26.074 CST [41008] ÖÂÃü´íÎó:  Êı¾İ¿â "root" ²»´æÔÚ
+2025-04-09 02:05:28.071 CST [34728] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-04-09 02:05:28.087 CST [34728] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2025-04-09 02:05:28.091 CST [34728] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 35292) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2025-04-09 02:05:28.093 CST [5520] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2025-04-09 02:05:28.094 CST [5520] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2025-04-09 02:05:28.962 CST [5520] ÈÕÖ¾:  checkpoint complete: wrote 711 buffers (4.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.012 s, sync=0.822 s, total=0.870 s; sync files=735, longest=0.041 s, average=0.002 s; distance=6854 kB, estimate=6854 kB
+2025-04-09 02:05:28.972 CST [34728] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2025-04-09 02:05:38.225 CST [28332] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-04-09 02:05:38.228 CST [28332] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 15432
+2025-04-09 02:05:38.228 CST [28332] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 15432
+2025-04-09 02:05:38.378 CST [37744] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-04-09 02:05:28 CST
+2025-04-09 02:05:38.459 CST [28332] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-09 02:07:11.093 CST [42420] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:11.093 CST [32936] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:11.093 CST [19540] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:11.093 CST [7720] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:11.093 CST [35684] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:13.763 CST [36368] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:13.763 CST [38668] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:13.764 CST [36292] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:13.764 CST [43048] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:13.764 CST [36776] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:13.765 CST [39184] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:16.829 CST [35820] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:07:20.120 CST [28332] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-04-09 02:07:20.124 CST [28332] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2025-04-09 02:07:20.128 CST [28332] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 8244) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2025-04-09 02:07:20.130 CST [42992] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2025-04-09 02:07:20.132 CST [42992] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2025-04-09 02:07:20.261 CST [42992] ÈÕÖ¾:  checkpoint complete: wrote 134 buffers (0.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.008 s, sync=0.106 s, total=0.131 s; sync files=48, longest=0.005 s, average=0.003 s; distance=600 kB, estimate=600 kB
+2025-04-09 02:07:20.279 CST [28332] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2025-04-09 02:08:28.373 CST [23456] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-04-09 02:08:28.377 CST [23456] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 15432
+2025-04-09 02:08:28.377 CST [23456] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 15432
+2025-04-09 02:08:28.496 CST [26620] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-04-09 02:07:20 CST
+2025-04-09 02:08:28.713 CST [23456] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-09 02:08:56.414 CST [23456] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-04-09 02:08:56.417 CST [23456] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2025-04-09 02:08:56.421 CST [23456] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 41980) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2025-04-09 02:08:56.422 CST [34444] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2025-04-09 02:08:56.424 CST [34444] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2025-04-09 02:08:56.519 CST [34444] ÈÕÖ¾:  checkpoint complete: wrote 62 buffers (0.4%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.083 s, total=0.097 s; sync files=47, longest=0.005 s, average=0.002 s; distance=238 kB, estimate=238 kB
+2025-04-09 02:08:56.529 CST [23456] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2025-04-09 02:09:12.372 CST [36752] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-04-09 02:09:12.375 CST [36752] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 15432
+2025-04-09 02:09:12.375 CST [36752] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 15432
+2025-04-09 02:09:12.487 CST [7004] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-04-09 02:08:56 CST
+2025-04-09 02:09:12.564 CST [36752] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-09 02:10:11.689 CST [40064] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:13.784 CST [37788] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:13.784 CST [37108] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:13.784 CST [6628] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:13.784 CST [29604] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:13.784 CST [43412] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:13.785 CST [38328] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:15.776 CST [26360] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:15.776 CST [39576] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:15.776 CST [28004] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:15.777 CST [35604] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:15.777 CST [30216] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:15.777 CST [43672] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-09 02:10:19.270 CST [36752] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-04-09 02:10:19.273 CST [36752] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2025-04-09 02:10:19.278 CST [36752] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 1064) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2025-04-09 02:10:19.279 CST [1500] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2025-04-09 02:10:19.281 CST [1500] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2025-04-09 02:10:19.358 CST [1500] ÈÕÖ¾:  checkpoint complete: wrote 15 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.066 s, total=0.079 s; sync files=11, longest=0.047 s, average=0.006 s; distance=15 kB, estimate=15 kB
+2025-04-09 02:10:19.365 CST [36752] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2025-04-19 21:18:01.624 CST [9204] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-04-19 21:18:01.631 CST [9204] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 15432
+2025-04-19 21:18:01.631 CST [9204] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 15432
+2025-04-19 21:18:01.680 CST [7540] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-04-19 21:17:58 CST
+2025-04-19 21:18:01.693 CST [9204] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-19 21:19:22.267 CST [3500] ÖÂÃü´íÎó:  Êı¾İ¿â "root" ²»´æÔÚ
+2025-04-19 21:19:24.956 CST [9204] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-04-19 21:19:24.957 CST [9204] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2025-04-19 21:19:24.961 CST [9204] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 860) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2025-04-19 21:19:24.963 CST [8000] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2025-04-19 21:19:24.964 CST [8000] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2025-04-19 21:19:25.167 CST [8000] ÈÕÖ¾:  checkpoint complete: wrote 723 buffers (4.4%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.058 s, sync=0.123 s, total=0.204 s; sync files=741, longest=0.001 s, average=0.001 s; distance=6897 kB, estimate=6897 kB
+2025-04-19 21:19:25.209 CST [9204] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2025-04-19 21:19:37.284 CST [6596] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-04-19 21:19:37.289 CST [6596] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 15432
+2025-04-19 21:19:37.289 CST [6596] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 15432
+2025-04-19 21:19:37.343 CST [9408] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-04-19 21:19:25 CST
+2025-04-19 21:19:37.359 CST [6596] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-19 21:20:39.647 CST [3580] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.666 CST [4488] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.783 CST [2888] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.784 CST [844] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.784 CST [3444] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.784 CST [9024] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.785 CST [8940] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.785 CST [7072] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.937 CST [4068] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.938 CST [2320] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.938 CST [6156] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.938 CST [4972] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.939 CST [5080] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:39.939 CST [2704] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2025-04-19 21:20:40.692 CST [6596] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-04-19 21:43:35.746 CST [4568] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-04-19 21:43:35.749 CST [4568] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 15432
+2025-04-19 21:43:35.750 CST [4568] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 15432
+2025-04-19 21:43:35.798 CST [7376] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÖĞ¶Ï£»ÉÏÒ»´ÎµÄÆô¶¯Ê±¼äÊÇÔÚ2025-04-19 21:19:37 CST
+2025-04-19 21:43:36.030 CST [7376] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³Ã»ÓĞÕıÈ·µÄ¹Ø±Õ; ´¦ÓÚ×Ô¶¯»Ö¸´×´Ì¬ÖĞ
+2025-04-19 21:43:36.033 CST [7376] ÈÕÖ¾:  redo ÔÚ 0/1BB9BC0 ¿ªÊ¼
+2025-04-19 21:43:36.041 CST [7376] ÈÕÖ¾:  0/1C4AAF0 ´¦µÄ¼ÇÂ¼³¤¶È²»ºÏ·¨£ºÏëÒª 24£¬µ«µÃµ½µÄÊÇ 0
+2025-04-19 21:43:36.041 CST [7376] ÈÕÖ¾:  redo done at 0/1C4AAB8 system usage: CPU:ÓÃ»§£º0.00 s£¬ÏµÍ³£º0.00 s£¬ÒÑÓÃÊ±¼ä£º0.00 s
+2025-04-19 21:43:36.072 CST [8284] ÈÕÖ¾:  checkpoint starting: end-of-recovery immediate wait
+2025-04-19 21:43:36.091 CST [8284] ÈÕÖ¾:  checkpoint complete: wrote 99 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.006 s, sync=0.010 s, total=0.021 s; sync files=32, longest=0.001 s, average=0.001 s; distance=579 kB, estimate=579 kB
+2025-04-19 21:43:36.103 CST [4568] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-19 21:48:33.105 CST [2696] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.112 CST [3996] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.114 CST [3524] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.125 CST [944] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.133 CST [3828] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.137 CST [8296] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.144 CST [9760] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.165 CST [5276] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.172 CST [3188] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.182 CST [2612] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:48:33.187 CST [7556] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 21:56:10.634 CST [3208] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 15.12, compiled by Visual C++ build 1942, 64-bit
+2025-04-19 21:56:10.639 CST [3208] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 15432
+2025-04-19 21:56:10.641 CST [3208] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 15432
+2025-04-19 21:56:10.702 CST [5944] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÖĞ¶Ï£»ÉÏÒ»´ÎµÄÆô¶¯Ê±¼äÊÇÔÚ2025-04-19 21:43:36 CST
+2025-04-19 21:56:11.121 CST [5944] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³Ã»ÓĞÕıÈ·µÄ¹Ø±Õ; ´¦ÓÚ×Ô¶¯»Ö¸´×´Ì¬ÖĞ
+2025-04-19 21:56:11.124 CST [5944] ÈÕÖ¾:  redo ÔÚ 0/1C4AB68 ¿ªÊ¼
+2025-04-19 21:56:11.128 CST [5944] ÈÕÖ¾:  0/1C508D0 ´¦µÄ¼ÇÂ¼³¤¶È²»ºÏ·¨£ºÏëÒª 24£¬µ«µÃµ½µÄÊÇ 0
+2025-04-19 21:56:11.128 CST [5944] ÈÕÖ¾:  redo done at 0/1C50898 system usage: CPU:ÓÃ»§£º0.00 s£¬ÏµÍ³£º0.00 s£¬ÒÑÓÃÊ±¼ä£º0.00 s
+2025-04-19 21:56:11.132 CST [4268] ÈÕÖ¾:  checkpoint starting: end-of-recovery immediate wait
+2025-04-19 21:56:11.145 CST [4268] ÈÕÖ¾:  checkpoint complete: wrote 9 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.005 s, sync=0.005 s, total=0.015 s; sync files=8, longest=0.002 s, average=0.001 s; distance=23 kB, estimate=23 kB
+2025-04-19 21:56:11.159 CST [3208] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-19 22:01:11.167 CST [4268] ÈÕÖ¾:  checkpoint starting: time
+2025-04-19 22:01:16.649 CST [4268] ÈÕÖ¾:  checkpoint complete: wrote 50 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=5.467 s, sync=0.009 s, total=5.483 s; sync files=35, longest=0.002 s, average=0.001 s; distance=44 kB, estimate=44 kB
+2025-04-19 22:06:11.657 CST [4268] ÈÕÖ¾:  checkpoint starting: time
+2025-04-19 22:06:15.238 CST [4268] ÈÕÖ¾:  checkpoint complete: wrote 33 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=3.564 s, sync=0.011 s, total=3.582 s; sync files=27, longest=0.002 s, average=0.001 s; distance=31 kB, estimate=42 kB
+2025-04-19 22:11:11.251 CST [4268] ÈÕÖ¾:  checkpoint starting: time
+2025-04-19 22:11:15.429 CST [4268] ÈÕÖ¾:  checkpoint complete: wrote 38 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=4.154 s, sync=0.014 s, total=4.178 s; sync files=29, longest=0.003 s, average=0.001 s; distance=32 kB, estimate=41 kB
+2025-04-19 22:16:11.423 CST [4268] ÈÕÖ¾:  checkpoint starting: time
+2025-04-19 22:16:14.857 CST [4268] ÈÕÖ¾:  checkpoint complete: wrote 32 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=3.421 s, sync=0.007 s, total=3.434 s; sync files=22, longest=0.001 s, average=0.001 s; distance=50 kB, estimate=50 kB
+2025-04-19 22:21:11.874 CST [4268] ÈÕÖ¾:  checkpoint starting: time
+2025-04-19 22:21:13.843 CST [4268] ÈÕÖ¾:  checkpoint complete: wrote 19 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.957 s, sync=0.005 s, total=1.970 s; sync files=14, longest=0.001 s, average=0.001 s; distance=62 kB, estimate=62 kB
+2025-04-19 22:22:36.225 CST [1696] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.233 CST [8176] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.233 CST [5096] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.233 CST [3576] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.233 CST [5532] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.235 CST [9596] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.240 CST [6136] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.247 CST [4400] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.247 CST [408] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.248 CST [6312] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2025-04-19 22:22:36.248 CST [6056] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥

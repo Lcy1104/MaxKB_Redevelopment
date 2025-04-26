@@ -1,0 +1,24 @@
+{
+  "arch": "x86_64",
+  "build": "py311h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "fn": "ruamel.yaml.clib-0.2.8-py311h827c3e9_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "38e5681d7de53c5ad93bd5f89b86553d",
+  "name": "ruamel.yaml.clib",
+  "platform": "win32",
+  "sha256": "ecfc9b111437bd16d1e3b924da4979bb287dea2aa411397b72b4cb9a5f842fca",
+  "size": 129142,
+  "subdir": "win-64",
+  "timestamp": 1727770309000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ruamel.yaml.clib-0.2.8-py311h827c3e9_0.conda",
+  "version": "0.2.8"
+}

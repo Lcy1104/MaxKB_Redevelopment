@@ -1,0 +1,2 @@
+# MaxKB_Redevelopment
+基于DeepSeek大模型的智能招生系统源码，使用需要遵循相关协议

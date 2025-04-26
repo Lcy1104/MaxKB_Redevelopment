@@ -1,0 +1,51 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "jsonpointer >=1.9",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\stone\\miniconda3\\pkgs\\jsonpatch-1.33-py311haa95532_1",
+  "files": [
+    "Lib/site-packages/__pycache__/jsonpatch.cpython-311.pyc",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/AUTHORS",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/INSTALLER",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/LICENSE",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/METADATA",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/RECORD",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/REQUESTED",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/WHEEL",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/direct_url.json",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/top_level.txt",
+    "Lib/site-packages/jsonpatch.py",
+    "Scripts/jsondiff-script.py",
+    "Scripts/jsondiff.exe",
+    "Scripts/jsonpatch-script.py",
+    "Scripts/jsonpatch.exe"
+  ],
+  "fn": "jsonpatch-1.33-py311haa95532_1.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\stone\\miniconda3\\pkgs\\jsonpatch-1.33-py311haa95532_1",
+    "type": 1
+  },
+  "md5": "06250af8c3de8adee8fe6feed2218d1e",
+  "name": "jsonpatch",
+  "package_tarball_full_path": "C:\\Users\\stone\\miniconda3\\pkgs\\jsonpatch-1.33-py311haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::jsonpatch==1.33=py311haa95532_1[md5=06250af8c3de8adee8fe6feed2218d1e]",
+  "sha256": "86155f963ee36187e21c6b1a09fe7875a7b812ba3843dfba2aed256a4fa04cf1",
+  "size": 64175,
+  "subdir": "win-64",
+  "timestamp": 1714484062000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jsonpatch-1.33-py311haa95532_1.conda",
+  "version": "1.33"
+}

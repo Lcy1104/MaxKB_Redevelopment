@@ -1,0 +1,47 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\stone\\miniconda3\\pkgs\\annotated-types-0.6.0-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/annotated_types/__init__.py",
+    "Lib/site-packages/annotated_types/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/annotated_types/__pycache__/test_cases.cpython-311.pyc",
+    "Lib/site-packages/annotated_types/py.typed",
+    "Lib/site-packages/annotated_types/test_cases.py"
+  ],
+  "fn": "annotated-types-0.6.0-py311haa95532_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\stone\\miniconda3\\pkgs\\annotated-types-0.6.0-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "5f9f878271e6cde9c1c959cdbeedf5fd",
+  "name": "annotated-types",
+  "package_tarball_full_path": "C:\\Users\\stone\\miniconda3\\pkgs\\annotated-types-0.6.0-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::annotated-types==0.6.0=py311haa95532_0[md5=5f9f878271e6cde9c1c959cdbeedf5fd]",
+  "sha256": "90b948f789d7308f913539653dd150a6f649f2058a4f1114ec91503f8ee0b351",
+  "size": 26809,
+  "subdir": "win-64",
+  "timestamp": 1709543227000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/annotated-types-0.6.0-py311haa95532_0.conda",
+  "version": "0.6.0"
+}

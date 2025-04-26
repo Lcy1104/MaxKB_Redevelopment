@@ -1,0 +1,25 @@
+{
+  "arch": "x86_64",
+  "build": "py311h636fa0f_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "typing-extensions >=4.6.0,!=4.7.0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "fn": "pydantic-core-2.27.1-py311h636fa0f_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "bec268e90d0a393178175101630e21fb",
+  "name": "pydantic-core",
+  "platform": "win32",
+  "sha256": "b5be62eed5fe5cab9b2dbeaba7b61c19732dec193d5fc2d78ffb8e523935850b",
+  "size": 1853699,
+  "subdir": "win-64",
+  "timestamp": 1734726967000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pydantic-core-2.27.1-py311h636fa0f_0.conda",
+  "version": "2.27.1"
+}

@@ -1,0 +1,52 @@
+{
+  "arch": "x86_64",
+  "build": "py311h636fa0f_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "typing-extensions >=4.6.0,!=4.7.0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\stone\\miniconda3\\pkgs\\pydantic-core-2.27.1-py311h636fa0f_0",
+  "files": [
+    "Lib/site-packages/pydantic_core-2.27.1.dist-info/INSTALLER",
+    "Lib/site-packages/pydantic_core-2.27.1.dist-info/METADATA",
+    "Lib/site-packages/pydantic_core-2.27.1.dist-info/RECORD",
+    "Lib/site-packages/pydantic_core-2.27.1.dist-info/REQUESTED",
+    "Lib/site-packages/pydantic_core-2.27.1.dist-info/WHEEL",
+    "Lib/site-packages/pydantic_core-2.27.1.dist-info/direct_url.json",
+    "Lib/site-packages/pydantic_core-2.27.1.dist-info/license_files/LICENSE",
+    "Lib/site-packages/pydantic_core/__init__.py",
+    "Lib/site-packages/pydantic_core/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/pydantic_core/__pycache__/core_schema.cpython-311.pyc",
+    "Lib/site-packages/pydantic_core/_pydantic_core.cp311-win_amd64.pyd",
+    "Lib/site-packages/pydantic_core/_pydantic_core.pyi",
+    "Lib/site-packages/pydantic_core/core_schema.py",
+    "Lib/site-packages/pydantic_core/py.typed"
+  ],
+  "fn": "pydantic-core-2.27.1-py311h636fa0f_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\stone\\miniconda3\\pkgs\\pydantic-core-2.27.1-py311h636fa0f_0",
+    "type": 1
+  },
+  "md5": "bec268e90d0a393178175101630e21fb",
+  "name": "pydantic-core",
+  "package_tarball_full_path": "C:\\Users\\stone\\miniconda3\\pkgs\\pydantic-core-2.27.1-py311h636fa0f_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::pydantic-core==2.27.1=py311h636fa0f_0[md5=bec268e90d0a393178175101630e21fb]",
+  "sha256": "b5be62eed5fe5cab9b2dbeaba7b61c19732dec193d5fc2d78ffb8e523935850b",
+  "size": 1853699,
+  "subdir": "win-64",
+  "timestamp": 1734726967000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pydantic-core-2.27.1-py311h636fa0f_0.conda",
+  "version": "2.27.1"
+}

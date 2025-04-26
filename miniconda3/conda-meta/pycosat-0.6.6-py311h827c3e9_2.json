@@ -1,0 +1,49 @@
+{
+  "arch": "x86_64",
+  "build": "py311h827c3e9_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\stone\\miniconda3\\pkgs\\pycosat-0.6.6-py311h827c3e9_2",
+  "files": [
+    "Lib/site-packages/__pycache__/test_pycosat.cpython-311.pyc",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/AUTHORS.md",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/INSTALLER",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/LICENSE",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/METADATA",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/RECORD",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/REQUESTED",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/WHEEL",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/direct_url.json",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/top_level.txt",
+    "Lib/site-packages/pycosat.cp311-win_amd64.pyd",
+    "Lib/site-packages/test_pycosat.py"
+  ],
+  "fn": "pycosat-0.6.6-py311h827c3e9_2.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\stone\\miniconda3\\pkgs\\pycosat-0.6.6-py311h827c3e9_2",
+    "type": 1
+  },
+  "md5": "27ed5b8b7ed86ceb3aa5aebb7f5684ef",
+  "name": "pycosat",
+  "package_tarball_full_path": "C:\\Users\\stone\\miniconda3\\pkgs\\pycosat-0.6.6-py311h827c3e9_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::pycosat==0.6.6=py311h827c3e9_2[md5=27ed5b8b7ed86ceb3aa5aebb7f5684ef]",
+  "sha256": "c1602887285a5676f17831d94840f2996a3f2ff1cf4f8e375465a9b7e28fc4bf",
+  "size": 93030,
+  "subdir": "win-64",
+  "timestamp": 1736868948000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pycosat-0.6.6-py311h827c3e9_2.conda",
+  "version": "0.6.6"
+}

@@ -1,0 +1,23 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/",
+  "constrains": [],
+  "depends": [
+    "jsonpointer >=1.9",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "fn": "jsonpatch-1.33-py311haa95532_1.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "md5": "06250af8c3de8adee8fe6feed2218d1e",
+  "name": "jsonpatch",
+  "platform": "win32",
+  "sha256": "86155f963ee36187e21c6b1a09fe7875a7b812ba3843dfba2aed256a4fa04cf1",
+  "size": 64175,
+  "subdir": "win-64",
+  "timestamp": 1714484062000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jsonpatch-1.33-py311haa95532_1.conda",
+  "version": "1.33"
+}

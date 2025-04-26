@@ -1,0 +1,1 @@
+import{dS as i,dT as s,dU as r}from"./index-1a322249.js";const n="/auth",u=(t,o)=>i(`${n}/${t}/detail`,void 0,o),a=(t,o)=>s(`${n}/connection`,t,void 0,o),p=(t,o,e)=>r(`${n}/${t}/info`,o,void 0,e),d={getAuthSetting:u,postAuthSetting:a,putAuthSetting:p};export{d as a};

@@ -1,0 +1,53 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\stone\\miniconda3\\pkgs\\distro-1.9.0-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/distro-1.9.0.dist-info/INSTALLER",
+    "Lib/site-packages/distro-1.9.0.dist-info/LICENSE",
+    "Lib/site-packages/distro-1.9.0.dist-info/METADATA",
+    "Lib/site-packages/distro-1.9.0.dist-info/RECORD",
+    "Lib/site-packages/distro-1.9.0.dist-info/REQUESTED",
+    "Lib/site-packages/distro-1.9.0.dist-info/WHEEL",
+    "Lib/site-packages/distro-1.9.0.dist-info/direct_url.json",
+    "Lib/site-packages/distro-1.9.0.dist-info/entry_points.txt",
+    "Lib/site-packages/distro-1.9.0.dist-info/top_level.txt",
+    "Lib/site-packages/distro/__init__.py",
+    "Lib/site-packages/distro/__main__.py",
+    "Lib/site-packages/distro/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/distro/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/distro/__pycache__/distro.cpython-311.pyc",
+    "Lib/site-packages/distro/distro.py",
+    "Lib/site-packages/distro/py.typed",
+    "Scripts/distro-script.py",
+    "Scripts/distro.exe"
+  ],
+  "fn": "distro-1.9.0-py311haa95532_0.conda",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\stone\\miniconda3\\pkgs\\distro-1.9.0-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "dd4f2d95f39c1eb17846ca48ac08f7b0",
+  "name": "distro",
+  "package_tarball_full_path": "C:\\Users\\stone\\miniconda3\\pkgs\\distro-1.9.0-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::distro==1.9.0=py311haa95532_0[md5=dd4f2d95f39c1eb17846ca48ac08f7b0]",
+  "sha256": "4ab617797ada7efb68bb7118579de84812002696c344f8dcc604e67da32c20f7",
+  "size": 62487,
+  "subdir": "win-64",
+  "timestamp": 1714488445000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/distro-1.9.0-py311haa95532_0.conda",
+  "version": "1.9.0"
+}

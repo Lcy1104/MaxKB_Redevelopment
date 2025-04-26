@@ -1,0 +1,60 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\stone\\miniconda3\\pkgs\\pluggy-1.5.0-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/pluggy-1.5.0.dist-info/INSTALLER",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/LICENSE",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/METADATA",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/RECORD",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/REQUESTED",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/WHEEL",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/direct_url.json",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/top_level.txt",
+    "Lib/site-packages/pluggy/__init__.py",
+    "Lib/site-packages/pluggy/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_callers.cpython-311.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_hooks.cpython-311.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_manager.cpython-311.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_result.cpython-311.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_tracing.cpython-311.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_version.cpython-311.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_warnings.cpython-311.pyc",
+    "Lib/site-packages/pluggy/_callers.py",
+    "Lib/site-packages/pluggy/_hooks.py",
+    "Lib/site-packages/pluggy/_manager.py",
+    "Lib/site-packages/pluggy/_result.py",
+    "Lib/site-packages/pluggy/_tracing.py",
+    "Lib/site-packages/pluggy/_version.py",
+    "Lib/site-packages/pluggy/_warnings.py",
+    "Lib/site-packages/pluggy/py.typed"
+  ],
+  "fn": "pluggy-1.5.0-py311haa95532_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\stone\\miniconda3\\pkgs\\pluggy-1.5.0-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "5a9736798edd2d4f68d0fceae868ed8e",
+  "name": "pluggy",
+  "package_tarball_full_path": "C:\\Users\\stone\\miniconda3\\pkgs\\pluggy-1.5.0-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::pluggy==1.5.0=py311haa95532_0[md5=5a9736798edd2d4f68d0fceae868ed8e]",
+  "sha256": "3f298ceea556bdf37b9a245cec812792d27a88f98cccfacf0c56327ca92adb78",
+  "size": 49260,
+  "subdir": "win-64",
+  "timestamp": 1733170206000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pluggy-1.5.0-py311haa95532_0.conda",
+  "version": "1.5.0"
+}
